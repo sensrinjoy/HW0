@@ -1,0 +1,4 @@
+#!/bin/bash
+# My post-commit script
+
+xdg-open http://amazon.com/
